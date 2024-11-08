@@ -63,7 +63,7 @@ nav a:hover{
 
 span{
     font-weight: bold;
-    color: var (--secundary-color);
+    color: var(--secundary-color);
 }
 
 footer{
